@@ -5,7 +5,7 @@ function clearScreen() {
         system('cls');
     } else {
         system('clear');
-    }
+    } 
 }
 
 // Print colored message
