@@ -9,7 +9,7 @@ function clearScreen() {
     }
 }
 
-// Function to generate random user agent
+// generate random user agent
 function generateUserAgent() {
     $os = ['Windows', 'Linux', 'iOS', 'Android'];
     $versions = ['8', '9', '10', '11', '12', '13', '14'];
